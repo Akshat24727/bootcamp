@@ -1,0 +1,47 @@
+{
+  "31337": {
+    "exchange": {
+      "address": "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9"
+    },
+    "DApp": {
+      "address": "0x5FbDB2315678afecb367f032d93F642f64180aa3"
+    },
+    "mETH": {
+      "address": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512"
+    },
+    "mDAI": {
+      "address": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0"
+    },
+    "explorerURL": "#"
+  },
+  "11155111": {
+    "exchange": {
+      "address": "0x777e9E4b34933512684A3Fe7C041F32c846bD8fE"
+    },
+    "DApp": {
+      "address": "0x7ECA19aa4381aFC03820150df9A80c33645EFc89"
+    },
+    "mETH": {
+      "address": "0x019c9C2E99CD85d86F0f259E852C71cC87Ba6BDD"
+    },
+    "mDAI": {
+      "address": "0x3f5673fF9De4Ff9661117f71AF49B202e7d089D7"
+    },
+    "explorerURL": "https://sepolia.etherscan.io/"
+  },
+  "80001": {
+    "exchange": {
+      "address": "0xdeF0377E1B303E244e778c9a539f996c80B96233"
+    },
+    "DApp": {
+      "address": "0xDde2F0934268F323d9cD22D5956b81e9397a919C"
+    },
+    "mETH": {
+      "address": "0x77Cc4DF2fb764c1F1817E127FA9A3e15E74d2b21"
+    },
+    "mDAI": {
+      "address": "0x00420d92bBc55C74EED3E619ADb9859322929BA8"
+    },
+    "explorerURL": "https://mumbai.polygonscan.com/"
+  }
+}
